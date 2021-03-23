@@ -1,0 +1,9 @@
+img {  width: 300px; }
+body { background-color: cyan;}
+#italy { font-style: italic;}
+.dark {font-weight: bold;  }
+#nodots { list-style-type: none; }
+.container { width: 300px; border-width: 3px; border-color: black; border-style: solid; padding: 22px;}
+.line { border-width: 3px; border-color: black; border-style: solid; padding: 2px;}
+.align { text-align: center; color:blueviolet;}
+.monkey {text-align: center;}
